@@ -188,7 +188,7 @@
 							<i class="fa fa-book"></i>
 						</a>
 						<h2>Areas of Interest</h2>
-						<p class="lead">The areas of interest include, but are not limited to:</p>
+						<p class="lead">The areas of interest for this section include, but are not limited to:</p>
 					</div>
 				</div>
 				<!-- /cta content -->
@@ -375,23 +375,23 @@
 							<div class="event-content">
 								
 									<ul class="pcm">
-									<li><i class="fa fa-graduation-cap"></i> Stefan Baums (University of Munich)</li>
-									<li><i class="fa fa-graduation-cap"></i>Laxmidhar Behera (IIT Kanpur)</li>
-									<li><i class="fa fa-graduation-cap"></i>Pawan Goyal (IIT Kharagpur) </li>
-									<li><i class="fa fa-graduation-cap"></i>Brendan Gillon (McGill University) </li>
-									<li><i class="fa fa-graduation-cap"></i>Olivier Hellwig (University of Zurich)</li>
-									<li><i class="fa fa-graduation-cap"></i>Gérard Huet (Inria Paris) </li>
-									<li><i class="fa fa-graduation-cap"></i>Girish Nath Jha (JNU, Delhi) </li>
-									<li><i class="fa fa-graduation-cap"></i>Amba Kulkarni (University of Hyderabad)</li>
-									<li><i class="fa fa-graduation-cap"></i>Malhar Kulkarni (IIT Bombay) </li>
-									<li><i class="fa fa-graduation-cap"></i>Andrew Ollett (Harvard University, Cambridge, MA)</li>
-									<li><i class="fa fa-graduation-cap"></i>Dhaval Patel (Ahmedabad)</li>
-									<li><i class="fa fa-graduation-cap"></i>Ganesh Ramakrishnan (IIT Bombay)</li>
-									<li><i class="fa fa-graduation-cap"></i>Pavan Kumar Satuluri (Chinmaya Vishwavidyapeeth, Veliyanad)</li>
-									<li><i class="fa fa-graduation-cap"></i>Peter Scharf (IIIT Hyderabad)</li>
-									<li><i class="fa fa-graduation-cap"></i>Srinivasa Varakhedi (KKSU, Ramtek)</li>
-									<li><i class="fa fa-graduation-cap"></i>K Varalakshmi (Osmania University, Hyderabad)</li>
-									</ul>
+<li><i class="fa fa-graduation-cap"></i> Stefan Baums (University of Munich)</li>
+<li><i class="fa fa-graduation-cap"></i>Laxmidhar Behera (IIT Kanpur)</li>
+<li><i class="fa fa-graduation-cap"></i>Pawan Goyal (IIT Kharagpur) </li>
+<li><i class="fa fa-graduation-cap"></i>Brendan Gillon (McGill University) </li>
+<li><i class="fa fa-graduation-cap"></i>Olivier Hellwig (University of Zurich)</li>
+<li><i class="fa fa-graduation-cap"></i>Gérard Huet (Inria Paris) </li>
+<li><i class="fa fa-graduation-cap"></i>Amba Kulkarni (University of Hyderabad)</li>
+<li><i class="fa fa-graduation-cap"></i>Malhar Kulkarni (IIT Bombay) </li>
+<li><i class="fa fa-graduation-cap"></i>Pavan Kumar Satuluri (Chinmaya Vishwavidyapeeth, Veliyanad)</li>
+<li><i class="fa fa-graduation-cap"></i>Girish Nath Jha (JNU, Delhi) </li>
+<li><i class="fa fa-graduation-cap"></i>Andrew Ollett (Harvard University, Cambridge, MA)</li>
+<li><i class="fa fa-graduation-cap"></i>Dhaval Patel (Ahmedabad)</li>
+<li><i class="fa fa-graduation-cap"></i>Ganesh Ramakrishnan (IIT Bombay)</li>
+<li><i class="fa fa-graduation-cap"></i>Peter Scharf (IIIT Hyderabad)</li>
+<li><i class="fa fa-graduation-cap"></i>Srinivasa Varakhedi (KKSU, Ramtek)</li>
+<li><i class="fa fa-graduation-cap"></i>K Varalakshmi (Osmania University, Hyderabad)</li>
+</ul>
 							</div>
 						</div>
 						<!-- /event -->
@@ -403,12 +403,12 @@
 						
 						<!-- /event -->
 					</div>
-					<!--
+<!--
 					<div class="download-btn">
 						<a href="#" class="main-btn">Download Schedule</a>
 
 					</div>
-					-->
+-->
 				</div>
 			</div>
 			<!-- /row -->
@@ -416,62 +416,6 @@
 		<!-- /container -->
 	</div>
 	<!-- /Event Schedule -->
-
-	<div id="stmembers" class="section2">
-		<!-- container -->
-		<div class="container">
-			<!-- row -->
-			<div class="row">
-				<!-- section title -->
-				<div class="section-title">
-					<h3 class="title"><span>Steering </span> <span style="color: #dd0a37;"> Committee</span></h3>
-				</div>
-				<!-- /section title -->
-
-				<div class="col-md-8 col-md-offset-2">
-
-					<div class="events-wrapper">
-						<!-- event -->
-						<div class="event3">
-
-							<div class="event-content">
-								
-									<ul class="pcm">
-									<li>Brendan Gillon (McGill University)</li>
-									<li>Pawan Goyal (IIT Kharagpur)</li>
-									<li>Gérard Huet (Inria Paris) </li>
-									<li>Girish Nath Jha (JNU, Delhi)</li>
-									<li>Amba Kulkarni (University of Hyderabad)</li>
-									<li>Malhar Kulkarni (IIT Bombay)</li>
-									<li>Peter Scharf ( Sanskrit Library USA and IIIT Hyderabad)</li>
-									</ul>
-							</div>
-						</div>
-						<!-- /event -->
-
-
-						
-					
-
-						
-						<!-- /event -->
-					</div>
-					<!--
-					<div class="download-btn">
-						<a href="#" class="main-btn">Download Schedule</a>
-
-					</div>
-					-->
-				</div>
-			</div>
-			<!-- /row -->
-		</div>
-		<!-- /container -->
-	</div>
-
-
-
-
 
 
 	<!-- Contact -->
