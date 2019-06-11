@@ -121,7 +121,9 @@
 					<!-- about content -->
 					<div class="about-content">
 						<p>Full papers are invited on original and unpublished research on various aspects of Computational Linguistics and Digital Humanities related to Sanskrit (Classical and Vedic), Prakrit, Pali, Buddhist Hybrid Sanskrit, etc. 
-</p>
+								<br /> <br /> <i class="fa fa-chevron-right"></i> <a href="subm.html">Take me to the <span style="color: #dd0a37;">Submission Details</span> page</a> <br />
+								<i class="fa fa-chevron-right"></i> 	All deadlines are in AoE (Anywhere on Earth) , which will be 26th May 5:30 PM IST.
+						</p>
 					</div>
 					<!-- /about content -->
 
@@ -132,8 +134,8 @@
 							<!-- number -->
 							<div class="col-md-4 col-sm-4 col-xs-6">
 								<div class="number">
-									<h3>May 10 <br /> 2019</h3>
-									<p>Submission Deadline</p>
+									<h3 style="color:#ccc;"><s>May 25 <br /> 2019</s></h3>
+									<p><s>May 10 2019</s><br />Submission Deadline</p>
 								</div>
 							</div>
 							<!-- /number -->
@@ -141,8 +143,8 @@
 							<!-- number -->
 							<div class="col-md-4 col-sm-4 col-xs-6">
 								<div class="number">
-									<h3>July 5 <br />2019</h3>
-									<p>Notification of Acceptance</p>
+									<h3>July 20 <br />2019</h3>
+									<p><s>July 5 2019</s><br />Notification of Acceptance</p>
 								</div>
 							</div>
 							<!-- /number -->
@@ -150,8 +152,8 @@
 							<!-- number -->
 							<div class="col-md-4 col-sm-4 col-xs-6">
 								<div class="number">
-									<h3>July 25<br /> 2019</h3>
-									<p>Camera Ready Version Due</p>
+									<h3>August 10<br /> 2019</h3>
+									<p><s>July 25 2019</s><br />Camera Ready Version Due</p>
 								</div>
 							</div>
 							<!-- /number -->
@@ -161,6 +163,8 @@
 						<!-- /row -->
 					</div>
 					<!-- /Numbers -->
+
+<i class="fa fa-chevron-right"></i> 	The proceedings of the conference will be published by the <a href="http://www.bori.ac.in/pdf/BORI-Publications-Price-List-2018.pdf"> Bhandarkar Oriental Research Institute </a>(BORI).
 				</div>
 			</div>
 			<!-- row -->
@@ -188,7 +192,7 @@
 							<i class="fa fa-book"></i>
 						</a>
 						<h2>Areas of Interest</h2>
-						<p class="lead">The areas of interest for this section include, but are not limited to:</p>
+						<p class="lead">The areas of interest include, but are not limited to:</p>
 					</div>
 				</div>
 				<!-- /cta content -->
@@ -375,23 +379,23 @@
 							<div class="event-content">
 								
 									<ul class="pcm">
-<li><i class="fa fa-graduation-cap"></i> Stefan Baums (University of Munich)</li>
-<li><i class="fa fa-graduation-cap"></i>Laxmidhar Behera (IIT Kanpur)</li>
-<li><i class="fa fa-graduation-cap"></i>Pawan Goyal (IIT Kharagpur) </li>
-<li><i class="fa fa-graduation-cap"></i>Brendan Gillon (McGill University) </li>
-<li><i class="fa fa-graduation-cap"></i>Olivier Hellwig (University of Zurich)</li>
-<li><i class="fa fa-graduation-cap"></i>Gérard Huet (Inria Paris) </li>
-<li><i class="fa fa-graduation-cap"></i>Amba Kulkarni (University of Hyderabad)</li>
-<li><i class="fa fa-graduation-cap"></i>Malhar Kulkarni (IIT Bombay) </li>
-<li><i class="fa fa-graduation-cap"></i>Pavan Kumar Satuluri (Chinmaya Vishwavidyapeeth, Veliyanad)</li>
-<li><i class="fa fa-graduation-cap"></i>Girish Nath Jha (JNU, Delhi) </li>
-<li><i class="fa fa-graduation-cap"></i>Andrew Ollett (Harvard University, Cambridge, MA)</li>
-<li><i class="fa fa-graduation-cap"></i>Dhaval Patel (Ahmedabad)</li>
-<li><i class="fa fa-graduation-cap"></i>Ganesh Ramakrishnan (IIT Bombay)</li>
-<li><i class="fa fa-graduation-cap"></i>Peter Scharf (IIIT Hyderabad)</li>
-<li><i class="fa fa-graduation-cap"></i>Srinivasa Varakhedi (KKSU, Ramtek)</li>
-<li><i class="fa fa-graduation-cap"></i>K Varalakshmi (Osmania University, Hyderabad)</li>
-</ul>
+									<li>																								<i class="fa fa-graduation-cap"></i> Stefan Baums (University of Munich)</li>
+									<li><i class="fa fa-graduation-cap"></i>Laxmidhar Behera (IIT Kanpur)</li>
+									<li><i class="fa fa-graduation-cap"></i>Brendan Gillon (McGill University) </li>
+									<li><i class="fa fa-graduation-cap"></i>Pawan Goyal (IIT Kharagpur) </li>
+									<li><i class="fa fa-graduation-cap"></i>Oliver Hellwig (University of Zurich)</li>
+									<li><i class="fa fa-graduation-cap"></i>Gérard Huet (Inria Paris) </li>
+									<li><i class="fa fa-graduation-cap"></i>Girish Nath Jha (JNU, Delhi) </li>
+									<li><i class="fa fa-graduation-cap"></i>Amba Kulkarni (University of Hyderabad)</li>
+									<li><i class="fa fa-graduation-cap"></i>Malhar Kulkarni (IIT Bombay) </li>
+									<li><i class="fa fa-graduation-cap"></i>Andrew Ollett (Harvard University, Cambridge, MA)</li>
+									<li><i class="fa fa-graduation-cap"></i>Dhaval Patel (Ahmedabad)</li>
+									<li><i class="fa fa-graduation-cap"></i>Ganesh Ramakrishnan (IIT Bombay)</li>
+									<li><i class="fa fa-graduation-cap"></i>Pavan Kumar Satuluri (Chinmaya Vishwavidyapeeth, Veliyanad)</li>
+									<li><i class="fa fa-graduation-cap"></i>Peter Scharf (IIIT Hyderabad)</li>
+									<li><i class="fa fa-graduation-cap"></i>Srinivasa Varakhedi (KKSU, Ramtek)</li>
+									<li><i class="fa fa-graduation-cap"></i>K Varalakshmi (Osmania University, Hyderabad)</li>
+									</ul>
 							</div>
 						</div>
 						<!-- /event -->
@@ -403,12 +407,12 @@
 						
 						<!-- /event -->
 					</div>
-<!--
+					<!--
 					<div class="download-btn">
 						<a href="#" class="main-btn">Download Schedule</a>
 
 					</div>
--->
+					-->
 				</div>
 			</div>
 			<!-- /row -->
@@ -416,6 +420,62 @@
 		<!-- /container -->
 	</div>
 	<!-- /Event Schedule -->
+
+	<div id="stmembers" class="section2">
+		<!-- container -->
+		<div class="container">
+			<!-- row -->
+			<div class="row">
+				<!-- section title -->
+				<div class="section-title">
+					<h3 class="title"><span>Steering </span> <span style="color: #dd0a37;"> Committee</span></h3>
+				</div>
+				<!-- /section title -->
+
+				<div class="col-md-8 col-md-offset-2">
+
+					<div class="events-wrapper">
+						<!-- event -->
+						<div class="event3">
+
+							<div class="event-content">
+								
+									<ul class="pcm">
+									<li><i class="fa fa-graduation-cap"></i>Brendan Gillon (McGill University)</li>
+									<li><i class="fa fa-graduation-cap"></i>Pawan Goyal (IIT Kharagpur)</li>
+									<li><i class="fa fa-graduation-cap"></i>Gérard Huet (Inria Paris) </li>
+									<li><i class="fa fa-graduation-cap"></i>Girish Nath Jha (JNU, Delhi)</li>
+									<li><i class="fa fa-graduation-cap"></i>Amba Kulkarni (University of Hyderabad)</li>
+									<li><i class="fa fa-graduation-cap"></i>Malhar Kulkarni (IIT Bombay)</li>
+									<li><i class="fa fa-graduation-cap"></i>Peter Scharf ( Sanskrit Library USA and IIIT Hyderabad)</li>
+									</ul>
+							</div>
+						</div>
+						<!-- /event -->
+
+
+						
+					
+
+						
+						<!-- /event -->
+					</div>
+					<!--
+					<div class="download-btn">
+						<a href="#" class="main-btn">Download Schedule</a>
+
+					</div>
+					-->
+				</div>
+			</div>
+			<!-- /row -->
+		</div>
+		<!-- /container -->
+	</div>
+
+
+
+
 
 
 	<!-- Contact -->
