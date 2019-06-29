@@ -164,7 +164,7 @@
 					</div>
 					<!-- /Numbers -->
 
-<i class="fa fa-chevron-right"></i> 	The proceedings of the conference will be published by the <a href="http://www.bori.ac.in/pdf/BORI-Publications-Price-List-2018.pdf"> Bhandarkar Oriental Research Institute </a>(BORI).
+<i class="fa fa-chevron-right"></i> 	The proceedings of the conference will be published by the <a href="http://www.bori.ac.in/"> Bhandarkar Oriental Research Institute </a>(BORI).
 				</div>
 			</div>
 			<!-- row -->
@@ -472,6 +472,48 @@
 		</div>
 		<!-- /container -->
 	</div>
+
+	<!-- Sponsors -->
+	<div id="sponsors" class="section">
+		<!-- container -->
+		<div class="container">
+			<!-- row -->
+			<div class="row">
+				<!-- section title -->
+				<div class="section-title">
+					<h3 class="title"><span>Our</span> <span style="color: #dd0a37;">Sponsors</span></h3>
+				</div>
+				<!-- /section title -->
+
+
+
+				<!-- sponsor -->
+				<div class="col-md-offset-2 col-md-4 col-sm-6 col-xs-6">
+					<a href="#" class="sponsor">
+						<img src="./img/spo2.png" alt="">
+						<p style="text-align:center;">Inter-Gurukula-University Centre for Indic Knowledge Systems</p>
+					</a>
+				</div>
+				<!-- /sponsor -->
+
+				<!-- sponsor -->
+				<div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-6">
+					<a href="#" class="sponsor">
+						<img src="./img/spo1.jpg" alt="">
+						 <p style="text-align:center;">Dharohar</p>
+					</a>
+				</div>
+				<!-- /sponsor -->
+
+			</div>
+			<!-- /row -->
+			<p style="text-align:center;">for sponsorship of the event, please contact: Pawan Goyal.</p>
+		</div>
+		<!-- /container -->
+	</div>
+	<!-- /Sponsors -->
+
+
 
 
 
