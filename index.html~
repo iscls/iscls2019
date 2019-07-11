@@ -143,8 +143,8 @@
 							<!-- number -->
 							<div class="col-md-4 col-sm-4 col-xs-6">
 								<div class="number">
-									<h3>July 20 <br />2019</h3>
-									<p><s>July 5 2019</s><br />Notification of Acceptance</p>
+									<h3>July 25 <br />2019</h3>
+									<p><s>July  20</s>| <s>July 5 2019</s><br />Notification of Acceptance</p>
 								</div>
 							</div>
 							<!-- /number -->
@@ -491,7 +491,7 @@
 				<div class="col-md-offset-2 col-md-4 col-sm-6 col-xs-6">
 					<a href="#" class="sponsor">
 						<img src="./img/spo2.png" alt="">
-						<p style="text-align:center;">Inter-Gurukula-University Centre for Indic Knowledge Systems</p>
+						<p style="text-align:center;">Dharohar</p>
 					</a>
 				</div>
 				<!-- /sponsor -->
@@ -500,7 +500,7 @@
 				<div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-6">
 					<a href="#" class="sponsor">
 						<img src="./img/spo1.jpg" alt="">
-						 <p style="text-align:center;">Dharohar</p>
+						 <p style="text-align:center;">Inter-Gurukula-University Centre for Indic Knowledge Systems</p>
 					</a>
 				</div>
 				<!-- /sponsor -->
