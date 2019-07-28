@@ -817,6 +817,11 @@ color: #dd0a37;
   min-height: 120px;
 }
 
+.event .event-content11 {
+  padding-left: 160px;
+  min-height: 10px;
+}
+
 .event .event-time {
   font-size: 14px;
 }
@@ -826,6 +831,10 @@ color: #dd0a37;
 }
 
 .event .event-content a {
+  color: #dd0a37;
+}
+
+a:visited { 
   color: #dd0a37;
 }
 
