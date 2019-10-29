@@ -1,0 +1,44 @@
+{
+  "Day1": [
+    {
+      "height": 3000,
+      "compressed_path": "./photos/Day1/IMG_20191023_091143.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/Day1/IMG_20191023_091143.placeholder.jpg",
+      "path": "./photos/Day1/IMG_20191023_091143.jpg"
+    },
+    {
+      "height": 3000,
+      "compressed_path": "./photos/Day1/IMG_20191023_091141.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/Day1/IMG_20191023_091141.placeholder.jpg",
+      "path": "./photos/Day1/IMG_20191023_091141.jpg"
+    },
+    {
+      "height": 3000,
+      "compressed_path": "./photos/Day1/IMG_20191023_091200.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/Day1/IMG_20191023_091200.placeholder.jpg",
+      "path": "./photos/Day1/IMG_20191023_091200.jpg"
+    },
+    {
+      "height": 3000,
+      "compressed_path": "./photos/Day1/IMG_20191023_091148.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/Day1/IMG_20191023_091148.placeholder.jpg",
+      "path": "./photos/Day1/IMG_20191023_091148.jpg"
+    },
+    {
+      "height": 3000,
+      "compressed_path": "./photos/Day1/IMG_20191023_091202.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/Day1/IMG_20191023_091202.placeholder.jpg",
+      "path": "./photos/Day1/IMG_20191023_091202.jpg"
+    }
+  ]
+}
